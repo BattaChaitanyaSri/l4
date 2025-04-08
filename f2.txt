@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Content at remote repository
+=======
+Content at feature branch
+>>>>>>> 0d76b82 (f2.txt added)
